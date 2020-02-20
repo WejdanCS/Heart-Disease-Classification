@@ -26,3 +26,6 @@ The requirements.txt file includs the packages which we need to run this project
 <li>run the jupyter notebook</li>
 
 </ol>
+
+<h1>Source of Dataset </h1>
+  I got on the dataset from kaggle and you can visit it by using this link <a href="https://www.kaggle.com/ronitf/heart-disease-uci">Heart Disease UCI</a>
